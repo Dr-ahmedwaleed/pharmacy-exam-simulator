@@ -1,0 +1,1419 @@
+### Question 1
+Which of the following floral parts are considered essential for reproduction?
+A) Sepals and petals
+B) Calyx and corolla
+C) Stamens and pistil
+D) Receptacle and perianth
+Answer: C
+
+### Question 2
+The outermost whorl of the floral series, usually green and protective in function, is called the:
+A) Corolla
+B) Calyx
+C) Androecium
+D) Gynaecium
+Answer: B
+
+### Question 3
+A flower that has its sepals completely free from one another is described as:
+A) Synsepalous
+B) Sympetalous
+C) Apopetalous
+D) Aposepalous
+Answer: D
+
+### Question 4
+When the outer non-essential floral parts are not differentiated into calyx and corolla, they are collectively termed:
+A) Hypanthium
+B) Perianth
+C) Inflorescence
+D) Capitulum
+Answer: B
+
+### Question 5
+Which term describes a stamen arrangement where the filaments are free, but the anthers are fused or united?
+A) Polyandrous
+B) Apocarpous
+C) Syngenesious
+D) Syncarpous
+Answer: C
+
+### Question 6
+If a single ovule is carried on the ovarian base, the placentation is described as:
+A) Apical
+B) Basal
+C) Axile
+D) Marginal
+Answer: B
+
+### Question 7
+In clove, the receptacle is elongated below the calyx and encloses the ovary. This structure is known as:
+A) Hypanthium
+B) Epicalyx
+C) Capitulum
+D) Perianth
+Answer: A
+
+### Question 8
+A pistillate flower is a type of unisexual flower that contains only the female organs.
+A) True
+B) False
+Answer: A
+
+### Question 9
+In a cymose inflorescence, the oldest flower is located at the top and the youngest at the base.
+A) True
+B) False
+Answer: A
+
+### Question 10
+Which type of inflorescence is characteristic of the Compositae/Asteraceae family?
+A) Cymose
+B) Umbel
+C) Capitulum
+D) Spike
+Answer: C
+
+### Question 11
+In the Asteraceae family, the marginal florets are typically:
+A) Tubular (Disc florets)
+B) Ray florets (Ligulate florets)
+C) Apopetalous
+D) Syngenesious
+Answer: B
+
+### Question 12
+Which characteristic microscopic feature is shared among German Chamomile, Roman Chamomile, and Pyrethrum?
+A) T-shaped hairs
+B) Candelabra hairs
+C) Spiny pollen grains
+D) Triangular pollen grains
+Answer: C
+
+### Question 13
+Which drug from the Asteraceae family contains azulene and chamazulene and is considered uterotonic?
+A) Santonica
+B) Pyrethrum
+C) Arnica
+D) German Chamomile
+Answer: D
+
+### Question 14
+Pyrethrum is primarily used internally as an anthelmintic for round worms.
+A) True
+B) False
+Answer: B
+
+### Question 15
+Which drug contains the bitter principle santonin and can cause visual disturbances (xanthopsia) if the dose exceeds 50 mg?
+A) Pyrethrum
+B) Santonica
+C) Arnica
+D) Artemisia
+Answer: B
+
+### Question 16
+Arnica is indicated internally as a highly effective antimalarial agent.
+A) True
+B) False
+Answer: B
+
+### Question 17
+Which of the following describes the microscopic elements of Pyrethrum?
+A) Spiny pollen grains and bracts with T-shaped hairs
+B) Triangular pollen grains and allembic hairs
+C) Spherical pollen grains and candelabra hairs
+D) Spiny pollen grains and labiaceous hairs
+Answer: A
+
+### Question 18
+Applying Williamson's reagent to an ether extract of Pyrethrum produces which color?
+A) Blue-black
+B) Crimson-red
+C) Green
+D) Yellow
+Answer: B
+
+### Question 19
+Kaselbach's Test for Santonica utilizes a benzene extract and CHOK to produce a crimson-red color.
+A) True
+B) False
+Answer: A
+
+### Question 20
+Which active constituent is responsible for the antimalarial properties of Artemisia annua?
+A) Santonin
+B) Arnicin
+C) Artemisinin
+D) Azulene
+Answer: C
+
+### Question 21
+The botanical source of Clove is the dried flower buds of Eugenia aromatica, belonging to the family Myrtaceae.
+A) True
+B) False
+Answer: A
+
+### Question 22
+Which of the following is a key microscopic element used to identify Clove?
+A) Spherical pollen grain with 6 germ pores
+B) Spiny pollen grain
+C) Triangular pollen grain with 3 germ pores and 3 germ furrows
+D) Hexagonal pollen grain with no germ furrows
+Answer: C
+
+### Question 23
+Clove is known to possess anticoagulant or antiplatelet aggregation properties.
+A) True
+B) False
+Answer: A
+
+### Question 24
+Which of the following is a key microscopic element used to identify Hibiscus?
+A) Candelabra hair
+B) Allembic hair near the veins
+C) Stellate hair
+D) T-shaped hair
+Answer: B
+
+### Question 25
+Hibiscus is commonly indicated as a weight-reducing agent and antihypertensive, but it acts as a contraindication for:
+A) Hypertension
+B) Cough
+C) Pregnancy/Fertility
+D) Glaucoma
+Answer: C
+
+### Question 26
+Which drug contains volatile oils (linalool, geraniol), has a bilabiate corolla, and utilizes candelabra hairs as a key microscopic element?
+A) Hibiscus
+B) Lavender
+C) Tilia
+D) Clove
+Answer: B
+
+### Question 27
+The key microscopic element of Tilia (linden flower) is:
+A) Allembic hair
+B) Stellate hair
+C) Candelabra hair
+D) Labiaceous hair
+Answer: B
+
+### Question 28
+Which drug consists of the dried ligulate corollas of the ray florets of its botanical source and is used externally for wound-healing and diaper rash?
+A) Calendula
+B) Safflower
+C) Saffron
+D) Arnica
+Answer: A
+
+### Question 29
+Safflower is primarily used as an adulterant for Saffron and as a coloring agent.
+A) True
+B) False
+Answer: A
+
+### Question 30
+Saffron consists of the dried tubular florets of Crocus sativus.
+A) True
+B) False
+Answer: B
+
+### Question 31
+Which active constituent in Clove serves as a starting material for the synthesis of vanillin?
+A) Gallotannic acid
+B) Acetyl eugenol
+C) Eugenol
+D) Cinnamic aldehyde
+Answer: C
+
+### Question 32
+To detect exhausted cloves, one should look for a darker, much shrunken appearance and check if they float in water.
+A) True
+B) False
+Answer: A
+
+### Question 33
+The presence of thick-walled sclereids and prisms of calcium oxalate in a sample of clove indicates adulteration with:
+A) Mother clove
+B) Exhausted cloves
+C) Blown clove
+D) Clove stalk
+Answer: D
+
+### Question 34
+Mother clove can be detected as an adulterant due to the presence of:
+A) Thick-walled sclereids
+B) Abundant starch
+C) T-shaped hairs
+D) Allembic hairs
+Answer: B
+
+### Question 35
+Adding 5% alcoholic KOH to Clove produces needle-shaped crystals of:
+A) Potassium eugenate
+B) Calcium oxalate
+C) Potassium hydroxide
+D) Sodium picrate
+Answer: A
+
+### Question 36
+Boiling Hibiscus flower powder in 1% HCl, filtering, and adding KOH to the dark red filtrate produces a:
+A) Green color
+B) Blue color
+C) Crimson-red color
+D) Yellow color
+Answer: B
+
+### Question 37
+Applying Sudan III stain to the volatile oil of Tilia produces an orange-red color.
+A) True
+B) False
+Answer: A
+
+### Question 38
+Which color is produced when Saffron is treated with 80% sulfuric acid?
+A) Yellow, then green, then brown
+B) Crimson-red, then blue, then black
+C) Deep blue, then violet, then wine red
+D) Orange-red, then purple, then white
+Answer: C
+
+### Question 39
+Bark is defined anatomically as all tissues located outside the:
+A) Epidermis
+B) Phellogen
+C) Cambium
+D) Xylem
+Answer: C
+
+### Question 40
+Which of the following layers produces cork to the outside and phelloderm to the inside?
+A) Vascular cambium
+B) Phellogen
+C) Cortex
+D) Pericycle
+Answer: B
+
+### Question 41
+The inner bark is primarily composed of:
+A) Cork
+B) Cortex
+C) Xylem
+D) Phloem
+Answer: D
+
+### Question 42
+Wild Cherry bark is uniquely collected in the autumn because the active constituents are at their highest level during this season.
+A) True
+B) False
+Answer: A
+
+### Question 43
+Barks tend to curve during drying because the outer surface curves more than the inner soft surface.
+A) True
+B) False
+Answer: B
+
+### Question 44
+Which method of bark collection is specifically noted for increasing production and yielding barks with less tannins and more volatile oils from lateral shoots?
+A) Falling
+B) Uprooting
+C) Coppicing
+D) Peeling
+Answer: C
+
+### Question 45
+Cascara bark contains primary di-glucosides (cascarosides A-D) that convert to secondary mono-glucosides after being stored for:
+A) 1 month
+B) 6 months
+C) 1 year
+D) 2 years
+Answer: C
+
+### Question 46
+Frangula bark requires 1 year of storage to break down its primary di-glucosides to avoid drastic, irritant, or nauseating action.
+A) True
+B) False
+Answer: B
+
+### Question 47
+A diagnostic microscopic element present in Cascara bark but absent in Frangula bark is:
+A) Phloem fibers
+B) Crystal sheath of Ca oxalate
+C) Cork cells
+D) Groups of yellow thick-wall sclereids scattered in cortex
+Answer: D
+
+### Question 48
+Which of the following morphological features is present in Cascara but absent in Frangula?
+A) Single quills
+B) Lenticels
+C) Epiphytes (Lichens, Mosses, Liver worts)
+D) Purplish cork
+Answer: C
+
+### Question 49
+Frangula bark contains both free and combined anthraquinone glycosides.
+A) True
+B) False
+Answer: B
+
+### Question 50
+Borntrager's Test is used to identify free anthraquinone glycosides and produces a rose-red color in the aqueous layer.
+A) True
+B) False
+Answer: A
+
+### Question 51
+To test for combined anthraquinone glycosides, the Modified Borntrager's Test adds an oxidative hydrolysis step using:
+A) Hydrogen peroxide (H2O2)
+B) Potassium hydroxide (KOH)
+C) Ferric chloride (FeCl3)
+D) Ammonia solution
+Answer: A
+
+### Question 52
+Which test specifically identifies Frangulin by producing a bright purple color upon the addition of KOH to the dried bark?
+A) Modified Borntrager's Test
+B) KOH Test
+C) Keller-Killiani Test
+D) Vitali's Test
+Answer: B
+
+### Question 53
+In the structure of a complete leaf, the stalk connecting the lamina to the stem is called the:
+A) Base
+B) Petiole
+C) Phyllopodium
+D) Midrib
+Answer: B
+
+### Question 54
+Non-glandular hairs that are formed of one row of cells are termed:
+A) Biseriate
+B) Pluriseriate
+C) Uniseriate
+D) Peltate
+Answer: C
+
+### Question 55
+Which plant is characterized by possessing unicellular, unbranched/simple non-glandular hairs?
+A) Senna
+B) Belladonna
+C) Arnica
+D) Pyrethrum
+Answer: A
+
+### Question 56
+A shaggy hair is a multicellular, unbranched, pluriseriate non-glandular hair. This is a characteristic element of:
+A) Cumin
+B) Tobacco
+C) Olea
+D) Calendula
+Answer: A
+
+### Question 57
+Which type of glandular hair has a plate-like structure of closely joined cells on a very short stalk and is found in Olea?
+A) Stellate
+B) Candelabra
+C) Peltate
+D) Clavate
+Answer: C
+
+### Question 58
+Belladonna leaves typically feature multicellular glandular hairs with a uniseriate stalk and a multicellular head.
+A) True
+B) False
+Answer: B
+
+### Question 59
+In the Compositae type of glandular hair (found in Chamomile), the stalk and head are typically:
+A) Uniseriate stalk, unicellular head
+B) Biseriate stalk, biseriate head
+C) Pluriseriate stalk, radiating head
+D) Branched stalk, multiple heads
+Answer: B
+
+### Question 60
+An anisocytic stoma is surrounded by usually three or more subsidiary cells, one of which is distinctly smaller than the others.
+A) True
+B) False
+Answer: A
+
+### Question 61
+Which type of stomata is surrounded by 2 subsidiary cells with their long axes parallel to the osteole?
+A) Anomocytic
+B) Paracytic
+C) Diacytic
+D) Anisocytic
+Answer: B
+
+### Question 62
+A dorsiventral leaf has palisade layers abutting on both the upper and lower epidermis.
+A) True
+B) False
+Answer: B
+
+### Question 63
+Which type of glandular hair is composed of a pluriseriate stalk and a head with mostly 8 radiating cells, characteristic of Cannabis?
+A) Labiatae type
+B) Compositae type
+C) Pluriseriate radiating type
+D) Branched stalk type
+Answer: C
+
+### Question 64
+Senna leaf contains sennosides A and B, which are anthraquinone glycosides used as laxatives in acute constipation.
+A) True
+B) False
+Answer: A
+
+### Question 65
+Senna is contraindicated in which of the following conditions?
+A) Emptying the bowels before X-ray
+B) Anal fissures
+C) Pregnancy and lactation
+D) Acute constipation
+Answer: C
+
+### Question 66
+Upon drying, the enzyme degradation of purpurea glycosides in Digitalis Leaf results in the loss of:
+A) Terminal glucose
+B) Acetyl moiety
+C) Flavonoids
+D) The entire aglycone
+Answer: A
+
+### Question 67
+First-year leaves of Digitalis purpurea collected in July-August have the lowest content of total glycosides.
+A) True
+B) False
+Answer: B
+
+### Question 68
+Which cardiac glycosides are primary glycosides found in Grecian Foxglove (Digitalis lanata) that contain an acetyl moiety?
+A) Purpurea glycosides A and B
+B) Lanatosides A, B, C, D and E
+C) Glucogitaloxin and luteolin
+D) Digoxin and digitoxin
+Answer: B
+
+### Question 69
+Digoxin is derived from Grecian Foxglove and is more rapidly absorbed from the gastrointestinal tract than Digitalis purpurea glycosides.
+A) True
+B) False
+Answer: A
+
+### Question 70
+Buchu leaf acts as a urinary antiseptic and diuretic due to the presence of:
+A) Arbutin and ericolin
+B) Boldine
+C) Volatile oil containing diasophenol and diosmin
+D) Pilocarpine
+Answer: C
+
+### Question 71
+Bearberry Leaf (Uva Ursi) contains the phenolic glycosides arbutin and ericolin and is used similarly to Buchu but is more astringent.
+A) True
+B) False
+Answer: A
+
+### Question 72
+Boldine, an alkaloid found in Boldo Leaf, is demonstrated to be an effective:
+A) Diuretic
+B) Cardiotonic
+C) Antioxidant
+D) CNS stimulant
+Answer: C
+
+### Question 73
+Which alkaloid found in Jaborandi Leaf causes contraction of the pupil of the eye (myotic effect) and is antagonistic to atropine?
+A) Theophylline
+B) Pilocarpine
+C) Atropine
+D) Hyoscyamine
+Answer: B
+
+### Question 74
+Tea Leaf contains large amounts of the alkaloid caffeine, which is a stronger diuretic than theobromine.
+A) True
+B) False
+Answer: B
+
+### Question 75
+Green tea leaves contain catechin, an antioxidant that is about 25-100 times more potent than vitamins C and E.
+A) True
+B) False
+Answer: A
+
+### Question 76
+Which leaf drug contains Lawson (a coloring matter) and is used internally in folkloric medicine against amoebic dysentery?
+A) Eucalyptus Leaf
+B) Bearberry Leaf
+C) Henna Leaf
+D) Jaborandi Leaf
+Answer: C
+
+### Question 77
+The Keller-Killiani test on Digitalis Leaf indicates the presence of:
+A) A five-membered lactone ring
+B) Digitoxose
+C) Sennosides A and B
+D) Acicular crystals
+Answer: B
+
+### Question 78
+Which two tests indicate the presence of a five-membered lactone ring in Digitalis glycosides?
+A) Keller-Killiani and Baljet Tests
+B) Baljet and Kedde's Tests
+C) Helch's and Kedde's Tests
+D) Microchemical and Baljet Tests
+Answer: B
+
+### Question 79
+In the microsublimation test for Digitalis leaf, what strongly polarizes light?
+A) Brown droplets
+B) Diosmin crystals
+C) Colorless droplets
+D) Very fine acicular crystals
+Answer: D
+
+### Question 80
+Helch's Test is utilized to indicate the presence of pilocarpine in Jaborandi leaf.
+A) True
+B) False
+Answer: A
+
+### Question 81
+Cascarilla bark contains volatile oils and a bitter principle, and its outer surface has a chalky appearance due to:
+A) Groups of sclereids
+B) Gray patches of lichens
+C) Numerous crystals of calcium oxalate
+D) Microsphenoidal crystals
+Answer: C
+
+### Question 82
+Pomegranate stem and root barks contain piperidine alkaloids (like pelletierine) which are used to kill tapeworms.
+A) True
+B) False
+Answer: B
+
+### Question 83
+Wild cherry bark contains the cyanogenetic glycoside prunasin, which upon hydrolysis yields glucose, benzaldehyde, and:
+A) Hydrogen peroxide
+B) Hydrogen cyanide (HCN)
+C) Potassium eugenate
+D) Quinoline
+Answer: B
+
+### Question 84
+The highest concentration of active constituents in Cinchona is found in the leaves.
+A) True
+B) False
+Answer: B
+
+### Question 85
+Which quinoline alkaloid from Cinchona bark is primarily used as an antiarrhythmic agent?
+A) Quinine
+B) Quinidine
+C) Cinchonine
+D) Cinchonidine
+Answer: B
+
+### Question 86
+Cinnamon bark (Cinnamomum zeylanicum) occurs as double quills and possesses a hypoglycemic effect.
+A) True
+B) False
+Answer: A
+
+### Question 87
+Cassia (Chinese cinnamon) bark differs from true Cinnamon because it contains:
+A) No volatile oil
+B) High amounts of eugenol
+C) No eugenol in its volatile oil
+D) No tannins
+Answer: C
+
+### Question 88
+Canella (White cinnamon) consists of the dried middle and inner barks and contains a high amount of tannins.
+A) True
+B) False
+Answer: B
+
+### Question 89
+Wood is anatomically defined as the:
+A) Primary xylem
+B) Secondary xylem
+C) Secondary phloem
+D) Pericycle
+Answer: B
+
+### Question 90
+Quassia Wood contains quassin, one of the most bitter-tasting substances, and is used as an effective anthelmintic to expel threadworms.
+A) True
+B) False
+Answer: A
+
+### Question 91
+All elements in Quassia wood are anatomically unlignified.
+A) True
+B) False
+Answer: B
+
+### Question 92
+Solanaceous leaves typically possess parasympathomimetic properties, increasing body secretions.
+A) True
+B) False
+Answer: B
+
+### Question 93
+Which stomatal type is characteristic of Solanaceous leaves?
+A) Paracytic
+B) Diacytic
+C) Anisocytic
+D) Anomocytic
+Answer: C
+
+### Question 94
+Belladonna Leaf mainly contains hyoscyamine, small amounts of hyoscine, and very little to no atropine.
+A) True
+B) False
+Answer: A
+
+### Question 95
+Microsphenoidal crystals of calcium oxalate found in idioblasts are characteristic of the powder of:
+A) Stramonium Leaf
+B) Egyptian Henbane
+C) Belladonna Leaf
+D) Quassia Wood
+Answer: C
+
+### Question 96
+Stramonium Leaf differs from Belladonna microscopically by the presence of a crystal layer, each cell containing a:
+A) Twin prism of calcium oxalate
+B) Cluster crystal of calcium oxalate
+C) Microsphenoidal crystal
+D) Spongy mesophyll
+Answer: B
+
+### Question 97
+Egyptian Henbane (Hyoscyamus muticus) powder is characterized by the presence of:
+A) Twin prisms of calcium oxalate
+B) Cluster crystals of calcium oxalate
+C) Microsphenoidal crystals
+D) Prisms in the cork
+Answer: A
+
+### Question 98
+Mayer's Reagent is used as a general test for alkaloids and forms a creamy white precipitate when positive.
+A) True
+B) False
+Answer: A
+
+### Question 99
+Which specific test for Solanaceous alkaloids involves boiling with dilute HCl, evaporating with nitric acid, and adding alcoholic KOH to produce a violet color?
+A) Modified Borntrager's Test
+B) Keller-Killiani Test
+C) Vitali's Test
+D) Guignard's Test
+Answer: C
+
+### Question 100
+Applying Sudan III stain to Cascarilla, Cinnamon, or Canella extracts produces an orange-red color indicative of volatile oils.
+A) True
+B) False
+Answer: A
+
+### Question 101
+The addition of FeCl3 to an extract of Pomegranate bark produces a blue-black color, which indicates the presence of:
+A) Alkaloids
+B) Volatile oils
+C) Tannins
+D) Saponins
+Answer: C
+
+### Question 102
+If FeCl3 is added to an extract of Canella bark, a blue-black color will form.
+A) True
+B) False
+Answer: B
+
+### Question 103
+Guignard's Reagent (sodium picrate paper) is used to detect the evolution of HCN in Wild Cherry bark, changing color from yellow to:
+A) Blue
+B) Green
+C) Brick-red
+D) Violet
+Answer: C
+
+### Question 104
+Heating Cinchona powder in a dry test tube produces:
+A) Violet fumes
+B) Crimson-red droplets
+C) Yellow fumes
+D) Needle shaped crystals
+Answer: A
+
+### Question 105
+Cinnamon extract mixed with alcoholic KOH produces needle-shaped crystals of potassium eugenate.
+A) True
+B) False
+Answer: A
+
+### Question 106
+T-shaped non-glandular hairs are characteristic of which plant?
+A) Senna
+B) Belladonna
+C) Arnica
+D) Pyrethrum
+Answer: D
+
+### Question 107
+Which leaf is characterized by multicellular, simple-branched non-glandular hairs ending in 2 branches?
+A) Tobacco
+B) Olea
+C) Cumin
+D) Belladonna
+Answer: A
+
+### Question 108
+Labiatae family leaves typically have a multicellular glandular hair with a uniseriate stalk and a head composed of 8 radiating cells.
+A) True
+B) False
+Answer: A
+
+### Question 109
+The presence of a multicellular glandular hair with a branched stalk ending in heads is characteristic of:
+A) Digitalis
+B) Cannabis
+C) Hyoscyamus
+D) Olea
+Answer: C
+
+### Question 110
+Diacytic stomata are defined by having two subsidiary cells with their long axes perpendicular to the osteole.
+A) True
+B) False
+Answer: A
+
+### Question 111
+Which type of stomata is formed due to the fusion of guard cells during development by lysis of the separating walls?
+A) Graminaceous type
+B) Moss type
+C) Gymnospermous type
+D) Ranunculaceous type
+Answer: B
+
+### Question 112
+Gymnospermous stomata have oval guard cells that are inclined to the epidermis at an angle of 45 degrees.
+A) True
+B) False
+Answer: A
+
+### Question 113
+In Graminaceous stomata, the guard cells are described as:
+A) Oval
+B) Dumbbell-shaped
+C) Warty
+D) Peltate
+Answer: B
+
+### Question 114
+The spongy mesophyll in a leaf is formed of closely packed chlorenchyma with intercellular spaces.
+A) True
+B) False
+Answer: A
+
+### Question 115
+If a flower has its male and female organs absent, it is termed:
+A) Hermaphrodite
+B) Staminate
+C) Pistillate
+D) Neuter/sterile
+Answer: D
+
+### Question 116
+In a racemose inflorescence, the main axis continues to grow, leaving the youngest flower at the base and the oldest at the top.
+A) True
+B) False
+Answer: B
+
+### Question 117
+The Capitulum is considered a type of simple racemose inflorescence.
+A) True
+B) False
+Answer: A
+
+### Question 118
+Both German and Roman Chamomile have dried expanded flower heads and are not safe for pregnancy.
+A) True
+B) False
+Answer: A
+
+### Question 119
+Roman Chamomile is cultivated, while German Chamomile is characterized by having azulene only.
+A) True
+B) False
+Answer: B
+
+### Question 120
+Insect flower, which targets the insect nervous system but is not medicine for the human body, is another name for:
+A) Pyrethrum
+B) Santonica
+C) Arnica
+D) Artemisia flower
+Answer: A
+
+### Question 121
+Santonica consists of dried expanded flower heads of Artemisia cina.
+A) True
+B) False
+Answer: B
+
+### Question 122
+Which plant is used locally as an irritant for bruises and sprains, but is toxic orally causing diarrhea and vomiting?
+A) Calendula
+B) Safflower
+C) Arnica
+D) Tilia
+Answer: C
+
+### Question 123
+A key microscopic element for the identification of Clove stamens is the presence of fragments of the fibrous layer of the anther and:
+A) Schizolysigenous oil glands
+B) Triangular pollen grains
+C) Polygonal cells with anomocytic stomata
+D) Papillosed stigma
+Answer: B
+
+### Question 124
+The petals of Clove are devoid of stomata but contain calcium oxalate clusters and numerous oil glands in their parenchymatous mesophyll.
+A) True
+B) False
+Answer: A
+
+### Question 125
+The hypanthium of Clove contains which type of aerenchyma cells?
+A) Epidermis like sepals
+B) Pericyclic fibers
+C) Aerenchyma cells
+D) All of the above
+Answer: D
+
+### Question 126
+The coloring matter of anthocyanins found in Hibiscus is known as:
+A) Hibiscetin
+B) Hibiscin
+C) Carthamin
+D) Crocin
+Answer: B
+
+### Question 127
+Hibiscus can be used as a substitute for tea and has a mild laxative effect.
+A) True
+B) False
+Answer: A
+
+### Question 128
+The epicalyx of Hibiscus contains non-glandular, unicellular hairs that arise from:
+A) A unicellular stalk
+B) A ring-like cicatrix surrounded by epidermal cells
+C) A multicellular uniseriate structure
+D) A peltate base
+Answer: B
+
+### Question 129
+Which type of cottony hair is NOT found in Hibiscus?
+A) Non-glandular cottony hairs
+B) Stellate cottony hair
+C) Stellate hairs of large straight unicellular arms
+D) Candelabra hair
+Answer: D
+
+### Question 130
+Lavender oil from the French variety is higher in concentration than the American variety.
+A) True
+B) False
+Answer: A
+
+### Question 131
+The inner surface of the Lavender corolla bears characteristic glandular hairs with a:
+A) Unicellular head and bicellular stalk
+B) Bicellular head and unicellular stalk
+C) Pluriseriate stalk and radiating head
+D) Biseriate stalk and biseriate head
+Answer: A
+
+### Question 132
+The anthers of Lavender are covered with whip-shaped, unicellular non-glandular hairs.
+A) True
+B) False
+Answer: A
+
+### Question 133
+Tilia contains a bitter glycoside called:
+A) Calendulin
+B) Tillein
+C) Picrocrocin
+D) Carthamin
+Answer: B
+
+### Question 134
+The active constituent "calendulin" is a bitter principle found in the dried ligulate corollas of Calendula officinalis.
+A) True
+B) False
+Answer: A
+
+### Question 135
+Safflower oil is widely used in cooking and as a high-calorie dietary supplement for nutrition therapy (weight gain).
+A) True
+B) False
+Answer: A
+
+### Question 136
+Saffron contains a bitter substance called:
+A) Crocin
+B) Picrocrocin
+C) Carthamin
+D) Tillein
+Answer: B
+
+### Question 137
+A flower bud that is bright reddish-brown, with a solid, cylindrical, 4-sided hypanthium exuding volatile oil when indented, describes:
+A) Hibiscus
+B) Lavender
+C) Clove
+D) Safflower
+Answer: C
+
+### Question 138
+The corolla of a Clove flower bud consists of four expanded membranous petals.
+A) True
+B) False
+Answer: B
+
+### Question 139
+The stamens in Clove are curved inwards, their filaments united in four groups (tetradelphous), and inserted on a small nectary disc.
+A) True
+B) False
+Answer: A
+
+### Question 140
+Hibiscus consists of dark crimson red, 8-10 linear or oblong epicalyx segments, and cup-shaped united petaloid calyx.
+A) True
+B) False
+Answer: A
+
+### Question 141
+The Lavender flower is nearly sessile with a bilabiate corolla where the posterior lip is trilobed and the anterior is bilobed.
+A) True
+B) False
+Answer: B
+
+### Question 142
+The ovary of Lavender is described as:
+A) Inferior, bilocular
+B) Superior, bicarpellary and tetralocular
+C) Superior, monocarpellary
+D) Inferior, tetracarpellary
+Answer: B
+
+### Question 143
+To preserve its odor, Tilia must be dried in the shade in thin layers, as drying it in the sun completely removes its odor.
+A) True
+B) False
+Answer: A
+
+### Question 144
+Adding conc. NH4OH to the filtrate of Hibiscus produces a:
+A) Dark red color
+B) Blue color
+C) Green color
+D) Yellow color
+Answer: C
+
+### Question 145
+Tilia yields a positive froth test, indicating the presence of:
+A) Tannins
+B) Flavonoids
+C) Volatile oils
+D) Saponins
+Answer: D
+
+### Question 146
+The tissue layer known as the secondary cortex in the bark is the:
+A) Cork
+B) Phellogen
+C) Phelloderm
+D) Pericycle
+Answer: C
+
+### Question 147
+Which element separates the bark from the xylem and is strictly not part of the bark?
+A) Phelloderm
+B) Phloem
+C) Cambium
+D) Pericycle
+Answer: C
+
+### Question 148
+In the phloem tissue, which cells are considered metabolically active?
+A) Sieve tubes
+B) Parenchyma cells
+C) Companion cells
+D) Phloem Fibers
+Answer: C
+
+### Question 149
+Compound quills are considered the highest quality (best quality) shape of dried barks.
+A) True
+B) False
+Answer: A
+
+### Question 150
+Uprooting is the collection method used for Cinchona because its active constituents sink down into the roots.
+A) True
+B) False
+Answer: A
+
+### Question 151
+Cascara bark acts as a bitter stomachic in small doses.
+A) True
+B) False
+Answer: A
+
+### Question 152
+The active constituent barbaloin in Cascara is a:
+A) Primary di-glucoside
+B) Secondary glycoside of cascaroside A-D
+C) Anthraquinone aglycone
+D) Flavonoid
+Answer: B
+
+### Question 153
+Frangula bark contains lenticels on its purplish cork and has an inner layer that is dark crimson.
+A) True
+B) False
+Answer: A
+
+### Question 154
+Anomocytic stomata in leaves are surrounded by cells that have no special arrangement and do not differ from other epidermal cells.
+A) True
+B) False
+Answer: A
+
+### Question 155
+In a dorsiventral leaf, palisade tissue is located beneath the upper epidermis only.
+A) True
+B) False
+Answer: A
+
+### Question 156
+A multicellular glandular hair with a uniseriate 1-celled stalk and a 2-celled multicellular head is microscopically observed in:
+A) Lavender
+B) Digitalis
+C) Chamomile
+D) Hyoscyamus
+Answer: B
+
+### Question 157
+The passage of anthracene derivatives from Senna into mother's milk may cause constipation in infants.
+A) True
+B) False
+Answer: B
+
+### Question 158
+Which plant contains the flavone luteolin and the saponins digitonin and gitonin?
+A) Senna Leaf
+B) Digitalis Leaf
+C) Bearberry Leaf
+D) Boldo Leaf
+Answer: B
+
+### Question 159
+Lanatosides A and B (found in Grecian Foxglove) are acetyl derivatives of purpurea A and B and are less active than the official drug.
+A) True
+B) False
+Answer: B
+
+### Question 160
+Which leaf acts as a mild smooth muscle relaxant and delays the onset of arteriosclerosis?
+A) Tea Leaf
+B) Jaborandi Leaf
+C) Boldo Leaf
+D) Eucalyptus Leaf
+Answer: A
+
+### Question 161
+Large doses of tea can cause gastritis, extrasystole of cardiac muscles, and nervous irritability.
+A) True
+B) False
+Answer: A
+
+### Question 162
+The volatile oil of Eucalyptus leaf is used as a stimulating expectorant, mild anesthetic, and antiseptic.
+A) True
+B) False
+Answer: A
+
+### Question 163
+When diosmin crystals from Buchu Leaf are dissolved in KOH, they yield a:
+A) Green color
+B) Rose-red color
+C) Yellow color
+D) Blue color
+Answer: C
+
+### Question 164
+Cascarilla stem bark is used as a fumigating agent and to add aroma to tobacco.
+A) True
+B) False
+Answer: A
+
+### Question 165
+Which of the following is NOT a piperidine alkaloid found in Pomegranate bark?
+A) Pelletierine
+B) Isopelletierine
+C) Pseudo pelletierine
+D) Cinchonidine
+Answer: D
+
+### Question 166
+Wild cherry bark is odorless when dry, but on moistening gives the odor of bitter almond due to the release of HCN.
+A) True
+B) False
+Answer: A
+
+### Question 167
+Cinchonine and cinchonidine derived from Cinchona bark possess which therapeutic property?
+A) Anti-rheumatic
+B) Antimalarial
+C) Antiarrhythmic
+D) Anthelmintic
+Answer: A
+
+### Question 168
+Lignified fusiform phloem fibers are characteristic microscopic elements of:
+A) Cascarilla and Pomegranate
+B) Cinchona and Cinnamon
+C) Wild cherry bark and Cassia
+D) Canella and Quassia
+Answer: B
+
+### Question 169
+Cinnamon is obtained from the dried decorticated bark of the stem of coppiced trees, deprived from its cork and cortex.
+A) True
+B) False
+Answer: A
+
+### Question 170
+Cassia bark occurs as single quills, has a darker color, and its taste is sweeter and less astringent than Cinnamon.
+A) True
+B) False
+Answer: B
+
+### Question 171
+The active constituents eugenol and caryophyllene are found in the volatile oils of which bark?
+A) Cinnamon
+B) Cassia
+C) Canella
+D) Cinchona
+Answer: C
+
+### Question 172
+Quassia Wood is used in the food industry as a bitter additive to foods and drinks.
+A) True
+B) False
+Answer: A
+
+### Question 173
+Tropane alkaloids such as atropine, hyoscyamine, and scopolamine are the main active constituents of Solanaceous leaves.
+A) True
+B) False
+Answer: A
+
+### Question 174
+Atropine causes contraction of the pupil of the eye, producing a myotic effect.
+A) True
+B) False
+Answer: B
+
+### Question 175
+Solanaceous leaves possess parasympatholytic properties which decrease body secretions, making them useful as pre-operative medication.
+A) True
+B) False
+Answer: A
+
+### Question 176
+Which of the following correctly describes the covering trichomes found in Solanaceous leaves?
+A) Unicellular, unbranched
+B) Multicellular, uniseriate, 3- to 5-celled
+C) Multicellular, biseriate, 2-celled
+D) Shaggy hairs
+Answer: B
+
+### Question 177
+The glandular trichomes in Solanaceous leaves feature a multicellular, club-shaped head known as:
+A) Peltate
+B) Candelabra
+C) Clavate
+D) Stellate
+Answer: C
+
+### Question 178
+Atropine in Stramonium Leaf may be formed from the racemization of hyoscyamine.
+A) True
+B) False
+Answer: A
+
+### Question 179
+Hyoscine from Stramonium Leaf has a sedative action and is thus used in motion sickness.
+A) True
+B) False
+Answer: A
+
+### Question 180
+Egyptian Henbane (Hyoscyamus muticus) is similar in action to belladonna and stramonium but is significantly stronger.
+A) True
+B) False
+Answer: B
+
+### Question 181
+Which reagent is dropped into a filtrate to immediately form a white precipitate in a general test for alkaloids?
+A) Potassium hydroxide
+B) Potassium-mercuric iodide
+C) Sodium picrate
+D) Ferric chloride
+Answer: B
+
+### Question 182
+The first step of Vitali's Test involves boiling the powdered Belladonna leaf with 10 mL of dilute HCl for two minutes.
+A) True
+B) False
+Answer: A
+
+### Question 183
+In Vitali's Test, after evaporating the yellow solution (formed with nitric acid) to dryness, which reagent is added to produce a violet color?
+A) Alcoholic KOH
+B) Aqueous KOH
+C) Ammonia solution
+D) Concentrated sulfuric acid
+Answer: A
+
+### Question 184
+Which of the following describes a key interaction between the active constituents of Clove and blood clotting?
+A) Promotes rapid coagulation
+B) Might slow blood clotting
+C) Triggers internal hemorrhage
+D) Neutralizes anticoagulant drugs
+Answer: B
+
+### Question 185
+The anthers of Clove feature a fibrous layer, which is essential for microscopic identification.
+A) True
+B) False
+Answer: A
+
+### Question 186
+The papillosed stigma is a microscopic feature of the gynoecium in both Clove and Lavender.
+A) True
+B) False
+Answer: A
+
+### Question 187
+Which drug possesses an anti-implantation or contraceptive effect?
+A) Senna
+B) Buchu
+C) Hibiscus
+D) Calendula
+Answer: C
+
+### Question 188
+Hibiscus epicalyx hairs are characterized as non-glandular, unicellular, long, and thick-walled, with a narrow lumen.
+A) True
+B) False
+Answer: B
+
+### Question 189
+The asperities near the margin of Hibiscus leaves are of a multicellular uniseriate structure.
+A) True
+B) False
+Answer: A
+
+### Question 190
+Which drug has epidermal cells that show diacytic stomata on its bract?
+A) Hibiscus
+B) Lavender
+C) Tilia
+D) Senna
+Answer: B
+
+### Question 191
+Lavender is used for fumigating clothes to keep them free from moths.
+A) True
+B) False
+Answer: A
+
+### Question 192
+Safflower contains the red coloring substance crocin and the yellow coloring substance safflower-yellow.
+A) True
+B) False
+Answer: B
+
+### Question 193
+Which of the following is true regarding Saffron?
+A) It contains the yellow carotenoid pigment crocin
+B) It contains the red coloring substance carthamin
+C) It contains high amounts of mucilage for weight gain
+D) It acts primarily as a strong anthelmintic
+Answer: A
+
+### Question 194
+Lenticels serve as breathing pores for gas exchange on the barks of Cascara, Frangula, and Wild cherry.
+A) True
+B) False
+Answer: A
+
+### Question 195
+Which structure in Cascara is defined as phloem fibers surrounded by parenchyma with Ca oxalate prisms?
+A) Idioblast
+B) Crystal sheath
+C) Spongy mesophyll
+D) Lenticel
+Answer: B
+
+### Question 196
+Frangula bark contains medullary rays and sieve tubes, but lacks crystal sheaths of Ca oxalate.
+A) True
+B) False
+Answer: B
+
+### Question 197
+The term "epipetalous" describing the stamens of Lavender means that the stamens are attached to the petals.
+A) True
+B) False
+Answer: A
+
+### Question 198
+The term "didynamous" describing the 4 stamens in Lavender means they occur in two pairs of unequal length.
+A) True
+B) False
+Answer: A
+
+### Question 199
+Which of the following acts as a cough sedative due to central sedation and peripheral soothing effects?
+A) Cascara
+B) Wild cherry bark
+C) Cinchona
+D) Pomegranate
+Answer: B
+
+### Question 200
+In Solanaceous leaves, idioblasts are specialized cells that contain which type of crystals?
+A) Twin prisms of calcium oxalate
+B) Cluster crystals of calcium oxalate
+C) Microsphenoidal crystals of calcium oxalate
+D) Needle-shaped crystals of potassium eugenate
+Answer: C
