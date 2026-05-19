@@ -7,7 +7,6 @@ import os
 st.set_page_config(page_title="Final Exam Simulator", layout="centered")
 
 # --- 2. CHECK FOR "STUDENT MODE" URL PARAMETER ---
-# This looks at the web link. If it says "?exam=Pharmacognosy", it activates student mode.
 params = st.query_params
 shared_exam = params.get("exam")
 
@@ -22,19 +21,34 @@ st.markdown("""
     .stMarkdown p {
         font-size: 16px !important;
     }
-    .stButton button {
-        font-size: 16px !important;
+    
+    /* ROBUST LEFT-ALIGNMENT FOR STREAMLIT CLOUD */
+    .stButton > button {
+        display: flex !important;
+        justify-content: flex-start !important;
+        align-items: center !important;
         padding: 10px 15px !important;
-        justify-content: flex-start !important; 
-        text-align: left !important;
         font-weight: 500 !important;
     }
-    .stButton button div, .stButton button p {
+    .stButton > button > div, .stButton > button > div > p {
         text-align: left !important;
         width: 100% !important;
+        margin: 0 !important;
     }
     
-    /* THE FIX: We make the header transparent instead of 'none' so the arrow stays! */
+    /* FORCE SLIDER TO BE WHITE */
+    .stSlider [role="slider"] {
+        background-color: white !important;
+        border-color: white !important;
+        box-shadow: none !important;
+    }
+    .stSlider div[data-baseweb="slider"] > div:nth-child(2) {
+        background-color: white !important;
+    }
+    .stSlider div[data-baseweb="slider"] > div:first-child {
+        background-color: rgba(255, 255, 255, 0.2) !important;
+    }
+    
     header[data-testid="stHeader"] {
         background-color: transparent !important;
     }
@@ -53,7 +67,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# If a student is using a shared link, forcefully hide the sidebar arrow from them
 if shared_exam:
     st.markdown("""
         <style>
@@ -145,14 +158,13 @@ def load_curriculum(filepath):
     return questions
 
 # --- 5. FIND ALL TEXT FILES & ROUTE THE USER ---
-txt_files = [f for f in os.listdir('.') if f.endswith('.txt')]
+txt_files = [f for f in os.listdir('.') if f.endswith('.txt') and f != 'requirements.txt']
 
 if not txt_files:
     st.error("No text files found! Please add your exam .txt files to this folder.")
     st.stop()
 
 if shared_exam:
-    # If Student Mode is active, force the selected file to be the one in the URL
     target_file = f"{shared_exam}.txt"
     if target_file in txt_files:
         selected_file = target_file
@@ -160,7 +172,6 @@ if shared_exam:
         st.error(f"Exam '{shared_exam}' not found. Please check the link.")
         st.stop()
 else:
-    # If Owner Mode is active, show the sidebar menu
     st.sidebar.title("Exam Settings")
     selected_file = st.sidebar.selectbox("📚 Select Subject:", txt_files)
 
@@ -177,7 +188,7 @@ if 'current_file' not in st.session_state or st.session_state.current_file != se
 
 # --- 7. BUILD THE USER INTERFACE ---
 exam_title = selected_file.replace('.txt', '').replace('_', ' ')
-st.title(f"{exam_title} Exam") 
+st.title(f"{exam_title}") 
 
 if not st.session_state.exam_data:
     st.warning("No questions loaded. Please check your text formatting.")
