@@ -26,6 +26,15 @@ st.markdown("""
         font-family: 'Inter', sans-serif !important;
     }
     
+    /* COMPACT MAIN TITLE */
+    h1 {
+        font-size: 22px !important; /* Small and marginal */
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+        margin-bottom: 0.5rem !important;
+        line-height: 1.2 !important;
+    }
+    
     /* GOLDEN RATIO TYPOGRAPHY */
     .stMarkdown p {
         font-size: 16px !important;
