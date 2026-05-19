@@ -15,11 +15,26 @@ st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
     
+    /* FORCE GLOBAL DARK MODE FOR ALL USERS */
+    .stApp, .stApp > header {
+        background-color: #0e1117 !important;
+        color: #fafafa !important;
+        font-family: 'Inter', sans-serif !important;
+    }
+    
     html, body, [class*="css"], .stMarkdown p, .stButton button {
         font-family: 'Inter', sans-serif !important;
     }
+    
+    /* GOLDEN RATIO TYPOGRAPHY */
     .stMarkdown p {
         font-size: 16px !important;
+    }
+    h4 {
+        font-size: 20px !important; /* Scaled down for mobile readability */
+        line-height: 1.5 !important;
+        font-weight: 600 !important;
+        margin-bottom: 1rem !important;
     }
     
     /* LEFT-ALIGNMENT FOR CLOUD BUTTONS */
@@ -36,6 +51,27 @@ st.markdown("""
         margin: 0 !important;
     }
     
+    /* PERFECT PURE WHITE SLIDER */
+    .stSlider [data-baseweb="slider"] {
+        padding-top: 15px !important;
+    }
+    .stSlider [role="slider"] {
+        background-color: #ffffff !important;
+        border-color: #ffffff !important;
+        box-shadow: none !important;
+    }
+    .stSlider [data-baseweb="slider"] > div:first-child > div:nth-child(2) {
+        background-color: #ffffff !important;
+    }
+    .stSlider [data-baseweb="slider"] > div:first-child > div:first-child {
+        background-color: rgba(255, 255, 255, 0.2) !important;
+    }
+    .stSlider [data-testid="stThumbValue"] {
+        color: #ffffff !important;
+        font-family: 'Inter', sans-serif !important;
+        font-weight: 600 !important;
+    }
+    
     /* FORCE MOBILE COLUMNS SIDE-BY-SIDE */
     [data-testid="stHorizontalBlock"] {
         display: flex !important;
@@ -48,12 +84,18 @@ st.markdown("""
         min-width: 50% !important;
     }
     
-    /* STICKY TOOLBELT & HIDE SETTINGS MENU */
+    /* STICKY TOOLBELT & HIDE STREAMLIT/GITHUB UI */
     header[data-testid="stHeader"] {
         background-color: transparent !important;
     }
     [data-testid="stHeaderActionElements"] {
-        display: none !important; /* This hides the 3-dot settings menu completely! */
+        display: none !important; 
+    }
+    .viewerBadge_container, .viewerBadge_link {
+        display: none !important; /* Hides the GitHub Fork Button */
+    }
+    footer {
+        display: none !important; /* Hides the Streamlit Watermark */
     }
     
     .block-container {
