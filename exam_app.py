@@ -10,10 +10,17 @@ st.set_page_config(page_title="Final Exam Simulator", layout="centered")
 params = st.query_params
 shared_exam = params.get("exam")
 
-# Inject custom CSS
+# Inject aggressive custom CSS for Cloud/Mobile formatting
 st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+    
+    /* 1. FORCE GLOBAL DARK MODE FOR ALL USERS */
+    .stApp, .stApp > header {
+        background-color: #0e1117 !important;
+        color: #fafafa !important;
+        font-family: 'Inter', sans-serif !important;
+    }
     
     html, body, [class*="css"], .stMarkdown p, .stButton button {
         font-family: 'Inter', sans-serif !important;
@@ -22,7 +29,7 @@ st.markdown("""
         font-size: 16px !important;
     }
     
-    /* ROBUST LEFT-ALIGNMENT FOR STREAMLIT CLOUD */
+    /* 2. BRUTAL LEFT-ALIGNMENT FOR CLOUD BUTTONS */
     .stButton > button {
         display: flex !important;
         justify-content: flex-start !important;
@@ -30,29 +37,53 @@ st.markdown("""
         padding: 10px 15px !important;
         font-weight: 500 !important;
     }
-    .stButton > button > div, .stButton > button > div > p {
+    .stButton > button * {
         text-align: left !important;
         width: 100% !important;
         margin: 0 !important;
     }
     
-    /* FORCE SLIDER TO BE WHITE */
+    /* 3. PERFECT PURE WHITE SLIDER */
+    .stSlider [data-baseweb="slider"] {
+        padding-top: 15px !important;
+    }
+    /* The Thumb (Circle) */
     .stSlider [role="slider"] {
-        background-color: white !important;
-        border-color: white !important;
+        background-color: #ffffff !important;
+        border-color: #ffffff !important;
         box-shadow: none !important;
     }
-    .stSlider div[data-baseweb="slider"] > div:nth-child(2) {
-        background-color: white !important;
+    /* The Filled Track */
+    .stSlider [data-baseweb="slider"] > div:first-child > div:nth-child(2) {
+        background-color: #ffffff !important;
     }
-    .stSlider div[data-baseweb="slider"] > div:first-child {
+    /* The Empty Track */
+    .stSlider [data-baseweb="slider"] > div:first-child > div:first-child {
         background-color: rgba(255, 255, 255, 0.2) !important;
     }
+    /* The Number floating above */
+    .stSlider [data-testid="stThumbValue"] {
+        color: #ffffff !important;
+        font-family: 'Inter', sans-serif !important;
+        font-weight: 600 !important;
+    }
     
+    /* 4. FORCE MOBILE COLUMNS SIDE-BY-SIDE */
+    [data-testid="stHorizontalBlock"] {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        gap: 15px !important;
+    }
+    [data-testid="stHorizontalBlock"] > div {
+        width: 50% !important;
+        min-width: 50% !important;
+    }
+    
+    /* 5. STICKY TOOLBELT */
     header[data-testid="stHeader"] {
         background-color: transparent !important;
     }
-    
     .block-container {
         padding-top: 2rem !important;
     }
@@ -188,7 +219,7 @@ if 'current_file' not in st.session_state or st.session_state.current_file != se
 
 # --- 7. BUILD THE USER INTERFACE ---
 exam_title = selected_file.replace('.txt', '').replace('_', ' ')
-st.title(f"{exam_title}") 
+st.title(exam_title) # This removes the redundant "Exam" word at the end
 
 if not st.session_state.exam_data:
     st.warning("No questions loaded. Please check your text formatting.")
