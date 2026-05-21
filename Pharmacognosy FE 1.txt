@@ -55,11 +55,11 @@ D) Support the ovule
 Answer: B
 
 ### Question 8
-Which layer of the bark is produced to the outside by the phellogen?
-A) Phelloderm
-B) Cortex
-C) Cork
-D) Phloem
+How can you differentiate between the barks of Cinnamon, Cassia, and Canella?
+A) Ferric chloride only
+B) Ferric chloride then KOH
+C) Ferric chloride then alcoholic KOH
+D) Alcoholic KOH only
 Answer: C
 
 ### Question 9
@@ -461,11 +461,11 @@ D) Chamomile
 Answer: B
 
 ### Question 59
-Which test is used to identify the presence of a five-membered lactone ring in cardiac glycosides?
-A) Baljet Test
-B) Keller-Killiani Test
-C) Modified Borntrager's Test
-D) Vitali's Test
+Collapsed cells can be found in
+A) Digitalis purpurea
+B) Senna Leaf 
+C) Digitalis lanata
+D) Uva Ursi
 Answer: A
 
 ### Question 60
@@ -485,12 +485,12 @@ D) Digitonin
 Answer: D
 
 ### Question 62
-In a flower, what is the collective term for the outer non-essential parts when calyx and corolla are undifferentiated?
-A) Capitulum
-B) Perianth
-C) Epicalyx
-D) Receptacle
-Answer: B
+A patient suffering from insomnia may use:
+A) Pyrethrum
+B) Calendula
+C) Safflower
+D) Chamomile
+Answer: D 
 
 ### Question 63
 Which leaf drug yields arbutin and is used as a stimulant diuretic and antiseptic?
@@ -725,11 +725,11 @@ D) Buchu Leaf
 Answer: A
 
 ### Question 92
-Which part of the hair is uniseriate and ends in two branches in Tobacco leaves?
-A) The head
-B) The stalk
-C) The body
-D) The base
+Which part of Lavender is bilobed?
+A) Anterior lip of corolla
+B) The Calyx
+C) Posterior lip of corolla
+D) No correct answer
 Answer: C
 
 ### Question 93
@@ -789,15 +789,15 @@ D) Tea Leaf
 Answer: B
 
 ### Question 100
-Which constituent of Safflower is responsible for its red color?
-A) Carthamin
-B) Crocin
-C) Safflower-yellow
-D) Luteolin
+Wormwood is a common name for
+A) Santonica (Artemisia cina) 
+B) Quassia
+C) Safflower
+D) Cinchona
 Answer: A
 
 ### Question 101
-Which bark exhibits dark purplish-brown color and groups of yellow thick-walled sclereids in the cortex?
+Which bark exhibits groups of yellow thick-walled sclereids in the cortex?
 A) Frangula
 B) Cascara
 C) Cinnamon
@@ -814,7 +814,7 @@ Answer: B
 
 ### Question 103
 Which of the following is an active constituent of Saffron?
-A) Picrocrocin
+A) Yellow carotenoid pigment
 B) Arnicin
 C) Calendulin
 D) Santonin
@@ -837,7 +837,7 @@ D) Piperaceae type
 Answer: A
 
 ### Question 106
-Which bark contains both eugenol and caryophyllene and is considered exfoliated?
+Which bark contains both eugenol and is considered exfoliated?
 A) Cinnamon
 B) Cassia
 C) Canella
@@ -861,11 +861,11 @@ D) Peumus boldus
 Answer: B
 
 ### Question 109
-Which botanical source corresponds to Santonica?
-A) Matricaria chamomila
-B) Artemisia annua
-C) Artemisia cina
-D) Eugenia aromatica
+Which of the following compounds possesses antimalarial properties?
+A) Santonin
+B) Hyoscyamine
+C) Artemisinin 
+D) Atropine 
 Answer: C
 
 ### Question 110
@@ -962,7 +962,7 @@ A) Bilabiate
 B) Cup-shaped
 C) Dome-shaped
 D) Ligulate
-Answer: C
+Answer: B
 
 ### Question 122
 Which plant provides an active constituent utilized to treat viral hepatitis?
@@ -1573,7 +1573,7 @@ D) Bearberry Leaf
 Answer: A
 
 ### Question 198
-Which form of bark curvature is considered to be of the best quality (الأجود)?
+Which form of bark curvature is considered to be of the best quality?
 A) Single quill
 B) Double quill
 C) Compound quill
